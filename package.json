@@ -1,0 +1,21 @@
+{
+  "name": "git-flow",
+  "version": "1.0.0",
+  "description": "123123123 2222",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeatPieYan/git-flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeatPieYan/git-flow/issues"
+  },
+  "homepage": "https://github.com/MeatPieYan/git-flow#readme"
+}
